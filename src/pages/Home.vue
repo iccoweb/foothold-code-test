@@ -9,11 +9,5 @@ export default {
   components: {
     FloatingActionsMenu,
   },
-  data() {
-    return {
-      blue: 'dfsdf',
-      red: 'red',
-    }
-  },
 }
 </script>
